@@ -41,11 +41,6 @@ System.out.println(yWert);//Werte ausgeben
     
 }
 
-public final void nullStelleBerechnen(){
-
-    System.out.println("commingSoon");
-    
-}
 
 }
 
