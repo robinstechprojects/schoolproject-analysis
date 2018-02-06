@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Linfkt
-comment0.text=\r\nBeschreiben\ Sie\ hier\ die\ Klasse\ Linfkt.\r\n\r\n@author\ (Ihr\ Name)\r\n@Version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment0.text=\r\nBeschreiben\ Sie\ hier\ die\ Klasse\ Linfkt.\r\n\r\n@author\ RobinS\r\n@Version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
 comment1.params=steigung\ yAchsenabschnitt
 comment1.target=Linfkt(double,\ double)
 comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ KarstenStahl\r\n\r\n

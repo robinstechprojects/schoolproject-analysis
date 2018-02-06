@@ -1,7 +1,7 @@
 /**
 Beschreiben Sie hier die Klasse Linfkt.
 
-@author (Ihr Name)
+@author RobinS
 @Version (eine Versionsnummer oder ein Datum)
 */
 public class Linfkt
