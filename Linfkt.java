@@ -13,11 +13,7 @@ public double psteigung;
 public double yAchsenAbschnitt;
 public double pyAchsenAbschnitt;
 public double xWert;
-public double x;
 public double yWert;
-public double nullStelle;
-public double schritt1;
-public double schritt2;
 /**
 * Konstruktor für Objekte der Klasse KarstenStahl
 
