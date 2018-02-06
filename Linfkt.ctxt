@@ -7,4 +7,6 @@ comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ KarstenStahl\r\
 comment2.params=xWert
 comment2.target=void\ yWerteBerechnen(double)
 comment2.text=\r\n\r\nDiese\ Methode\ berechnet\ y-Werte\r\n\r\n
-numComments=3
+comment3.params=
+comment3.target=void\ nullStelleBerechnen()
+numComments=4
