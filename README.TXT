@@ -1,14 +1,12 @@
 ------------------------------------------------------------------------
-Dies ist die README-Datei des Projekts. Hier sollten Sie Ihr Projekt
-beschreiben.
-Erzählen Sie dem Leser (jemand, der nichts über dieses Projekt weiss),
-alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar 
-zumindest die folgenden Angaben umfassen:
+Schoolproject Analysis
+
+A little BlueJ algorithm capable of calculating graphs.
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
-VERSION oder DATUM:
-WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
+PROJEKTBEZEICHNUNG:Projekt Analysis
+PROJEKTZWECK:Schoolproject
+VERSION oder DATUM:0.1
+WIE IST DAS PROJEKT ZU STARTEN:Use BlueJ to open this Project
+AUTOR(EN): RobinS
 BENUTZERHINWEISE:
